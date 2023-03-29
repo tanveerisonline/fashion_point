@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+.btn {
+  @apply bg-[#8a4af3] hover:bg-blue-400 text-white hover:scale-[1.1] ease-in duration-100 cursor-pointer px-3 py-2 mt-3 rounded;
+}
+@tailwind utilities;
